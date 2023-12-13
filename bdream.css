@@ -1,0 +1,71 @@
+
+h1{
+    text-align: center;
+
+}
+.reg1{
+    text-align:center;
+    position: relative;
+    bottom: 120px;
+}
+.head{
+    display: flex-wap;
+}
+ .photo{
+    border: 5px solid black;
+    height: 150px;
+    width: 130px;
+    margin-left: 80%;
+    margin-top: -80px;
+} 
+.stu{
+    text-align: center;
+}
+
+.stdinfo .photo{
+    display: inline-block;
+    position: relative;
+}
+
+input{
+    width: 80%;
+    border-top: none ;
+    border-left: 0;
+    border-right: none;
+}
+.pgec{
+    text-align:left;
+    font-size: 20px;
+}
+h5{
+    font-size: 20px;
+}
+.condi{
+    
+    margin-left: 100px;
+}
+.agg{
+    text-align: center;
+    margin: 50px;
+}
+.sign{
+    text-align: right;
+    margin-right: 5%;
+}
+.bob{
+    text-align: center;
+    }
+.bob1{
+        margin-left: 350px;
+    }
+.border{
+    
+    border: 1px solid black;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.a1{
+    margin-left: 50px;
+}
+
+
